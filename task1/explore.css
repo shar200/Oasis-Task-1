@@ -1,0 +1,40 @@
+.education{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.education .edu_logo h2{
+    color:rgb(202, 29, 138);
+    text-align: center;
+    font-size: 35px;
+    padding-top:3px;
+    padding-bottom: 0;
+    line-height:10px;
+}
+.education .education_info{
+    padding-left: 3%;
+    padding-top: 2%;
+    display: flex;
+}
+.education .education_info .edu{
+    width: 33%;
+    margin: 12px;
+    box-shadow: 0px 3px 6px 0px rgba(213, 9, 200, 0.824) ;
+    padding: 1%;
+    margin-bottom: 30px;
+    font-weight: bolder;
+}
+.education .education_info .edu .edu_img h3{
+    font-size: 25px;
+}
+
+.education .education_info .edu .edu_img img{ 
+    overflow:hidden;
+    width: 100%;
+}
+.education .education_info .edu .edu_img h3{ 
+    padding-bottom: 0%;
+    text-align: center;
+}
+.education .education_info .edu .edu_img:hover{
+    box-shadow: 0px 3px 20px 0px rgba(12, 0, 11, 0.824);
+}
